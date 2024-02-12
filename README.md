@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Isaac
 - 👀 I’m interested in backend development with javascript and python
-- 🌱 I’m currently learning **python-flask** for **REST APIs** and **microservices**
+- 🌱 I’m currently learning **react** for **REST APIs** and **microservices**
 - 💬 Ask me about **Node.js, Python, flask, C, React.js, Redux, Nginx, HAProxy, MySQL, MongoDB**
 - 📫 You can reach out to me via kanytakiy@gmail.com
 - ⚡ Fun fact **Coding will soon be as important as reading**

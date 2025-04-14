@@ -24,8 +24,8 @@ I code to solve meaningful problems that make a **real impact** on end users. I 
 
 - 🔭 Currently building innovative betting experiences at [Levr](https://www.levr.bet)
 - 🌱 Expanding my expertise in **React Native** and **Nest.js**
-- 💡 Passionate about responsive design, animation, and state management
-- 🚀 Always learning and exploring new technologies
+- 💡 Passionate about cloud computing, software engineer, and Human Centered Design
+- 🚀 Committed to life-long learning and constant improvement
 
 <br />
 

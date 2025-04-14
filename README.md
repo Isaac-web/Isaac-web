@@ -15,7 +15,7 @@
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=3000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;React+%2B+React+Native+Developer;Creating+seamless+user+interfaces;JavaScript+enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=3000&color=6C63FF&center=true&vCenter=true&width=600&lines=Cross-Functional+Team+Collaboration;User-Centered+Problem+Solving;Creating+seamless+user+interfaces;Commitment+To+Life+Long+Learning" />
 </div>
 
 ## About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35">

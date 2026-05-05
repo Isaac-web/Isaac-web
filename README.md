@@ -20,7 +20,7 @@
 
 ## About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35">
 
-I build software to solve meaningful problems that make a **real impact** on end users. I do this by empathizing deeply with users, collaborating with cross-functional teams, and crafting intuitive, high-quality experiences through code. As a full-stack software engineer specializing in React, Node.js, and modern JavaScript, I’m passionate about turning ideas into scalable, user-centered solutions.
+I build software to solve problems that make a **real impact** on end users. I do this by empathizing deeply with users, collaborating with cross-functional teams, and crafting intuitive, high-quality experiences through code. As a full-stack software engineer specializing in React, Node.js, and modern JavaScript, I’m passionate about turning ideas into scalable, user-centered solutions.
 
 - 🔭 Currently building innovative betting experiences at [Levr](https://www.levr.bet)
 - 🌱 Expanding my expertise in **React Native**, **Nest.js** and **AWS Cloud Computing**
